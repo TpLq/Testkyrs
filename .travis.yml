@@ -1,8 +1,7 @@
 language: C++
 
 script:
--mkdir
--test
+-Makefile
 compiler: gcc
 
 dist: xenial
